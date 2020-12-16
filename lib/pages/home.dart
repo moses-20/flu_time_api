@@ -12,7 +12,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     data = data.isNotEmpty ? data : ModalRoute.of(context).settings.arguments;
 
-    String bgImg = data['isDayTime'] ? 'img1.jpg' : 'img1.jpg';
+    String bgImg = data['isDayTime'] ? 'img1.jpg' : 'img2.jpg';
     return Scaffold(
       body: SafeArea(
         child: Container(
