@@ -1,16 +1,11 @@
 # flu_time_api
 
-A new Flutter project.
+Location time app built using world time api.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Run `git clone https://github.com/moses-20/flu_time_api.git`
+2. Get dependencies using `flutter pub get`
+3. Switch to beta channel of your Flutter SDK if you want to view in a browser and run `flutter run -d web`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###### I know the background images are not the best 😉.
